@@ -11,7 +11,7 @@ function list(names){
         }
     });
 
-    return namesStr;
+	return namesStr;
 }
 
 list([{name: 'Bart'},{name: 'Lisa'},{name: 'Maggie'},{name: 'Homer'},{name: 'Marge'}])
